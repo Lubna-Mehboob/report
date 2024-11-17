@@ -10,7 +10,7 @@ class ChallangeScreen extends StatelessWidget {
       backgroundColor: const Color.fromARGB(255, 57, 2, 94),
       appBar: AppBar(
         title: const Text(
-          'Development Process',
+          'Challenges Faced',
           style: TextStyle(color: Colors.white),
         ),
         backgroundColor: Colors.deepOrange,

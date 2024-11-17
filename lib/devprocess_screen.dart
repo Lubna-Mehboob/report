@@ -54,8 +54,8 @@ class DevelopmentProcessScreen extends StatelessWidget {
                   padding: EdgeInsets.all(8.0),
                   child: SectionContent(
                     content:
-                        "Flutter was used for the frontend. The app's structure followed an MVVM pattern, "
-                        "ensuring that the UI and business logic were properly separated.",
+                        "Flutter was utilized for the frontend, and the app's structure adhered to the MVVM pattern, "
+                        "ensuring a clear separation between the UI and business logic.",
                   ),
                 ),
               ],
